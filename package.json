@@ -1,0 +1,29 @@
+{
+  "name": "jstorm",
+  "version": "1.0.0",
+  "description": "JavaScript file storage and ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewCherabaev/jstorm.git"
+  },
+  "keywords": [
+    "orm",
+    "database",
+    "datastore",
+    "file",
+    "local",
+    "storage",
+    "JSON",
+    "embed"
+  ],
+  "author": "AndrewCherabaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewCherabaev/jstorm/issues"
+  },
+  "homepage": "https://github.com/AndrewCherabaev/jstorm#readme"
+}
